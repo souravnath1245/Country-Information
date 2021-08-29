@@ -1,0 +1,43 @@
+/* Google font  */
+/* @import url("https://fonts.googleapis.com/css2?family=Charmonman&family=Roboto:wght@500&display=swap");
+
+/* colors  */
+/* :root {
+  --mainPink: #f46197;
+  --mainGreen: #2ca58d;
+} */
+/* body {
+  font-family: "Charm", cursive;
+  color: var(--mainPink);
+} */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#countries{
+  display: grid;
+  grid-template-columns: repeat( 3 , 1fr);
+}
+.countries {
+  border: 1px solid green;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 10px;
+}
+/* .post{
+  background-color:  green;
+  padding: 10px;
+  text-transform: capitalize;
+  border-radius:  10px;
+  margin-top: 10px;
+}
+.feedback{
+  display:  none;
+}
+.show{
+  display: block;
+} */
+
+/* font-family: 'Charmonman', cursive; */
+/* font-family: 'Roboto', sans-serif; */

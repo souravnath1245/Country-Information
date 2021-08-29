@@ -1,0 +1,38 @@
+{
+  "Sturdents Data": [
+    {
+      "name": "Anisul Islam",
+      "middleName": null,
+      "age": 31,
+      "isRegistered": true,
+      "language": ["Bangala", "English", "Hindi"],
+      "friends": [
+        {
+          "name": "Sourav",
+          "age": 25
+        },
+        {
+          "name": "Rahul",
+          "age": 28
+        }
+      ]
+    },
+    {
+      "name": "Rabeya Begum",
+      "middleName": null,
+      "age": 30,
+      "isRegistered": false,
+      "language": ["Bangala", "English", "Hindi", "Tamil"],
+      "friends": [
+        {
+          "name": "Shakib",
+          "age": 20
+        },
+        {
+          "name": "Shaima",
+          "age": 28
+        }
+      ]
+    }
+  ]
+}
